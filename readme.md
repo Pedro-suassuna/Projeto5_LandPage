@@ -6,10 +6,8 @@ Desafio exclusivo promovido pela Rockeseat 🚀
 
 </br>
 
-<p align="center">
-
-![alt text](https://i.imgur.com/ZumTo36.png)
-
+<p align = "center">
+<img src="https://i.imgur.com/ZumTo36.png"/>
 </p>
 
 <br>
