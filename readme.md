@@ -8,7 +8,7 @@ Desafio exclusivo promovido pela Rockeseat 🚀
 
 <p align="center">
 
-![alt text](assets/PrintDoProjeto.png)
+![alt text](https://i.imgur.com/ZumTo36.png)
 
 </p>
 
